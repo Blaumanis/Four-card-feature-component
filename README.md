@@ -1,2 +1,4 @@
 # Four-card-feature-component
-Frontend Mentor Project
+Frontend Mentor challenge
+
+https://frontend-four-card-feature-component.netlify.app/
